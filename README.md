@@ -3,7 +3,7 @@
 
 # Hi there, I'm a software developer.
 
-Full-Stack | Web | Mobile (Android & Flutter)
+Full-Stack | Web | Mobile | Desktop
 
 [![Github](https://img.shields.io/github/followers/wchoque?style=social)](https://github.com/wchoque)
 [![Github](https://img.shields.io/github/last-commit/wchoque/wchoque)](https://github.com/wchoque/wchoque)
@@ -20,9 +20,6 @@ Full-Stack | Web | Mobile (Android & Flutter)
 
 ## Mis redes sociales
 
-<a href="https://twitter.com/damiarc_dev">
-  <img align="left" alt="damianrincondrc" width="22px" src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
-</a>
 <a href="https://www.linkedin.com/in/wilber-alex-choque-itusaca/">
   <img align="left" alt="Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
