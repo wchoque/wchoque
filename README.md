@@ -18,7 +18,7 @@ Full-Stack | Web | Mobile | Desktop
 - I am highly qualified in object-oriented programming, SOLID principles, Test Driven Development,  Domain Driven Development, design patterns, and database design.
 - I am also highly skilled in written and spoken English.
 
-## Mis redes sociales
+## Social media
 
 <a href="https://www.linkedin.com/in/wilber-alex-choque-itusaca/">
   <img align="left" alt="Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
