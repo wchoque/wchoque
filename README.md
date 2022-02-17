@@ -13,7 +13,7 @@ Full-Stack | Web | Mobile | Desktop
 
 ## About me
 
-- Passionate software developer with more than 3 years of experience. 
+- Passionate software developer with more than 5 years of experience. 
 - I consider myself a self-taught person, I enjoy working as a team and meeting my goals on time. 
 - I am highly qualified in object-oriented programming, SOLID principles, Test Driven Development,  Domain Driven Development, design patterns, and database design.
 - I am also highly skilled in written and spoken English.
